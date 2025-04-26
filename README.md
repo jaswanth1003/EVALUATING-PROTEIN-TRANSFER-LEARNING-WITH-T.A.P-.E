@@ -30,7 +30,7 @@ TAPE benchmarks the effectiveness of deep learning methods, especially transfer 
 | Folder | Description |
 |:-------|:------------|
 | `data/` | Downloaded or generated datasets for various protein tasks |
-| `models/` | Transformer and LSTM architectures for protein modeling |
+| `models/` | Transformer architectures for protein modeling |
 | `scripts/` | Pretraining, finetuning, and evaluation scripts |
 | `results/` | Checkpoints, logs, and evaluation outputs |
 | `configs/` | YAML config files for experiments |
