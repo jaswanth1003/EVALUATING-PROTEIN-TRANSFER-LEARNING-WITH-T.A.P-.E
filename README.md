@@ -47,6 +47,8 @@ cd EVALUATING-PROTEIN-TRANSFER-LEARNING-WITH-T.A.P-.E
 
 pip install -r requirements.txt
 
+---
+
 ### **Important Notes**
 
 Model checkpoints (`*.pt` files) larger than 100MB are **NOT** included directly in GitHub due to file size restrictions.
