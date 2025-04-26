@@ -48,7 +48,7 @@ cd EVALUATING-PROTEIN-TRANSFER-LEARNING-WITH-T.A.P-.E
 pip install -r requirements.txt
 
 
-## Important Notes
+**### Important Notes**
 
 Model checkpoints (*.pt files) larger than 100MB are NOT included directly in GitHub due to file size restrictions.
 
@@ -56,7 +56,7 @@ Please download or generate checkpoints locally.
 
 Large files should be managed with Git LFS if necessary.
 
-## Acknowledgements
+**## Acknowledgements**
 
 The original TAPE codebase provided the backbone for much of the task implementations.
 
