@@ -33,7 +33,7 @@ TAPE benchmarks the effectiveness of deep learning methods, especially transfer 
 | `models/` | Transformer architectures for protein modeling |
 | `scripts/` | Pretraining, finetuning, and evaluation scripts |
 | `results/` | Checkpoints, logs, and evaluation outputs |
-| `configs/` | YAML config files for experiments |
+
 
 ---
 
